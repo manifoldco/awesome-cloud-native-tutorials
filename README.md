@@ -18,6 +18,7 @@ What is Cloud Native? From the [Cloud Native Computing Foundation](https://www.c
   - [Kubernetes](#kubernetes)
   - [Mesos](#mesos)
   - [OpenShift](#openshift)
+- [Inter-Service Communication](#inter-service-communication)
 
 ## Containers
 
@@ -47,6 +48,10 @@ What is Cloud Native? From the [Cloud Native Computing Foundation](https://www.c
 ### OpenShift
 
 - [Local Cluster Management](https://github.com/openshift/origin/blob/master/docs/cluster_up_down.md) - Run a local OpenShift cluster on your laptop.
+
+## Inter-Service Communication
+
+- [Go gRPC Tutorial](https://github.com/phuongdo/go-grpc-tutorial) - An introduction to working with gRPC for Go Developers.
 
 ## Contribute
 
