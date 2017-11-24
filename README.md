@@ -17,6 +17,7 @@ What is Cloud Native? From the [Cloud Native Computing Foundation](https://www.c
 - [Container Orchestration](#container-orchestration)
   - [Kubernetes](#kubernetes)
   - [Mesos](#mesos)
+  - [OpenShift](#openshift)
 
 ## Containers
 
@@ -36,10 +37,15 @@ What is Cloud Native? From the [Cloud Native Computing Foundation](https://www.c
 
 - [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - The definitive guide to building a Kubenetes cluster from scratch.
 - [service-catalog Tutorial](https://github.com/manifoldco/service-catalog-tutorial) - An overview of using service-catalog to provision services in your cluster.
+- [Using kubeadm to Create a Cluster](https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/) - Install Kubernetes on a set of machines.
 
 ### Mesos
 
 - [How to create a Mesos framework in Go](https://github.com/sayden/minimal-mesos-go-framework) - A tutorial showing Mesos' extensibility model.
+
+### OpenShift
+
+- [Local Cluster Management](https://github.com/openshift/origin/blob/master/docs/cluster_up_down.md) - Run a local OpenShift cluster on your laptop.
 
 ## Contribute
 
