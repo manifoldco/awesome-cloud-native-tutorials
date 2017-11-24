@@ -38,6 +38,7 @@ What is Cloud Native? From the [Cloud Native Computing Foundation](https://www.c
 - [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - The definitive guide to building a Kubenetes cluster from scratch.
 - [service-catalog Tutorial](https://github.com/manifoldco/service-catalog-tutorial) - An overview of using service-catalog to provision services in your cluster.
 - [Using kubeadm to Create a Cluster](https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/) - Install Kubernetes on a set of machines.
+- [Kubernetes in AWS with kops](https://github.com/kubernetes/kops/blob/master/docs/aws.md) - Set up a kubernetes cluster in AWS using kops.
 
 ### Mesos
 
