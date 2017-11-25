@@ -33,6 +33,7 @@ What is Cloud Native? From the [Cloud Native Computing Foundation](https://www.c
 
 - [Please Contain Yourself](https://github.com/dylanlrrb/Please-Contain-Yourself) - A tutorial for those brand-new to Docker.
 - [Dockerizing a Node.js application](https://github.com/docker/labs/tree/master/developer-tools/nodejs/porting) - A complete introduction to running an application inside a container.
+- [Create lean Node.js image with Docker multi-stage build](https://codefresh.io/blog/node_docker_multistage/) - Keep your build tooling out of your production images.
 
 ### Open Containers
 
