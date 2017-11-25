@@ -48,6 +48,7 @@ Tutorials hosted on github as markdown files include :octocat: (the Octocat).
 ### Kubernetes
 
 - [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) :octocat: - The definitive guide to building a Kubenetes cluster from scratch.
+- [Kubernetes By Example](http://kubernetesbyexample.com/) - A hands-on introduction to Kubernetes concepts. Requires an existing cluster.
 - [service-catalog Tutorial](https://github.com/manifoldco/service-catalog-tutorial) :octocat: - An overview of using service-catalog to provision services in your cluster.
 - [Using kubeadm to Create a Cluster](https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/) - Install Kubernetes on a set of machines.
 - [Kubernetes in AWS with kops](https://github.com/kubernetes/kops/blob/master/docs/aws.md) :octocat: - Set up a kubernetes cluster in AWS using kops.
