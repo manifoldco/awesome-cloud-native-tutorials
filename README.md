@@ -52,6 +52,7 @@ What is Cloud Native? From the [Cloud Native Computing Foundation](https://www.c
 ## Inter-Service Communication
 
 - [Go gRPC Tutorial](https://github.com/phuongdo/go-grpc-tutorial) - An introduction to working with gRPC for Go Developers.
+- [Implementing Remote Procedure Calls With gRPC and Protocol Buffers](https://scotch.io/tutorials/implementing-remote-procedure-calls-with-grpc-and-protocol-buffers) - Implement a Node.js gRPC server and call it from Node.js and Python.
 
 ## Contribute
 
